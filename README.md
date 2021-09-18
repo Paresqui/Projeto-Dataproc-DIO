@@ -1,4 +1,4 @@
-# Projeto Desafio Dataproc da Digital Inovation One - DIO
+# Projeto Desafio Dataproc da Digital Innovation One - DIO
 
 Código criado para utilização junto a plataforma da Digital Innovation One
 
