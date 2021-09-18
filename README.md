@@ -6,7 +6,7 @@ Código criado para utilização junto a plataforma da Digital Innovation One
 
 ## Contexto
 
-O Desafio GCP Dataproc, faz parte do curso na plataforma da Digital Innovation One: 
+O Desafio Google Cloud Platform - GCP Dataproc, faz parte do curso na plataforma da Digital Innovation One: 
 
 __*Criando um ecossistema Hadoop totalmente gerenciado com Google Cloud Platform*__ 
 
